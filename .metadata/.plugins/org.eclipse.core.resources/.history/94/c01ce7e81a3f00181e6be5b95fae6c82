@@ -1,5 +1,0 @@
-package com.eureka.client.consumer;
-
-public class EurekaClientController {
-
-}
